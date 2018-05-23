@@ -18,7 +18,7 @@ jar {
     baseName = 'japng'
     manifest {
         attributes 'Implementation-Title': 'japng',
-                   'Implementation-Version': version,
+                   'Implementation-Version': '0.5.1',
                    'Implementation-Vendor': 'https://github.com/aellerton/'
         // 'A Java-only library for reading and processing PNG and APNG files.'
     }
